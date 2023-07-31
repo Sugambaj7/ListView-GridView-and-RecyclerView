@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.example.listview_gridview_recyclerview'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.listview_gridview_recyclerview"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
